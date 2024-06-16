@@ -1,11 +1,4 @@
 # Physical Activity Monitoring Analysis using Machine Learning Models
-The dataset utilised for this project is a Physical Activity Monitoring Dataset, which is an Activity
-Monitoring dataset that comprises 12 core and 6 extra physical activities performed by 9
-individuals, 8 men and 1 woman, utilising three inertial measurement units and a heart rate
-monitor. I would be cleaning this data, carrying out an EDA, state a predictive hypothesis which I
-would be developing a model to test and give an actionable recommendation based on my
-analysis.
+The dataset used for this project is the Physical Activity Monitoring Dataset, which includes data from 9 individuals (8 men and 1 woman) performing 12 core and 6 additional physical activities. The data was collected using three inertial measurement units and a heart rate monitor. My objective is to clean this data, conduct an exploratory data analysis (EDA), formulate a predictive hypothesis, develop a model to test this hypothesis, and provide actionable recommendations based on my analysis.
 
-The goal of this project is to gather insights based on the findings of my investigation to
-establish how active an individual is based on physical activities that will be utilised for
-developing hardware and software.
+The primary goal of this project is to derive insights from the data to assess an individual's activity level based on their physical activities. These insights will inform the development of both hardware and software solutions aimed at accurately monitoring and enhancing physical activity levels.
